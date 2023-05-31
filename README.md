@@ -13,11 +13,12 @@ INSERT INTO personal_info (name)
 VALUES ('Keenan Samway');
 
 INSERT INTO education (degree)
-VALUES ('Incoming MS in Computer Science at Georgia Tech'),
+VALUES ('Incoming MS in Computational Statistics and Machine Learning (CSML) at UCL'),
        ('BSFS in Science, Technology and International Affairs (STIA) at Georgetown University');
 
-INSERT INTO research_experience (experience)
-VALUES ('Data Science Research Assistant for Professor Michael Rossetti'),
+INSERT INTO work_experience (experience)
+VALUES ('Machine Learning Intern at Ultra Intelligence & Communications'),
+       ('Data Science Research Assistant to Professor Michael Rossetti'),
        ('Undergraduate STIA Research Project under Professor Christopher Lawrence');
 
 INSERT INTO fields_of_interest (field)
