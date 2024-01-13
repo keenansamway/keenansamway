@@ -13,7 +13,7 @@ INSERT INTO personal_info (name)
 VALUES ('Keenan Samway');
 
 INSERT INTO education (degree)
-VALUES ('Incoming MS in Computational Statistics and Machine Learning (CSML) at UCL'),
+VALUES ('MSc in Computational Statistics and Machine Learning (CSML) at UCL'),
        ('BSFS in Science, Technology and International Affairs (STIA) at Georgetown University');
 
 INSERT INTO work_experience (experience)
