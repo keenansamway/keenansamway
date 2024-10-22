@@ -22,10 +22,10 @@ VALUES ('Machine Learning Intern at Ultra Intelligence & Communications'),
        ('Undergraduate STIA Research Project under Professor Christopher Lawrence');
 
 INSERT INTO fields_of_interest (field)
-VALUES ('Artificial Intelligence'),
-       ('Machine Learning'),
-       ('Deep Learning'),
-       ('Data Science');
+VALUES ('Deep Learning'),
+       ('Natural Language Processing'),
+       ('AI Safety'),
+       ('Fairness, Trustworthiness & Interpretability');
 
 INSERT INTO hobbies (hobby)
 VALUES ('Cycling'),
@@ -34,7 +34,7 @@ VALUES ('Cycling'),
        ('Formula 1'),
        ('Chess'),
        ('Photography'),
-       ('Bass Guitar');
+       ('Archery');
 ```
 
 
